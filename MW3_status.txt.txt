@@ -1,0 +1,5 @@
+CHAIR V2,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/generic_cheat.exe
+UNLOCK ALL,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_Fayss_UA_V3.6.exe
+AIO,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_AIO_UNBRANDED_V3.6.exe
+CHAIR V1,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/u237cgatAh2.exe
+SPOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Privacy_Protector.exe
