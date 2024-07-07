@@ -1,4 +1,4 @@
-CHAIR V2,online,1.00.03,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/MW3_CHEAT_1.exe
+CHAIR V2,online,1.00.04,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/CHAIR_amp_UA_LOADER.exe
 UNLOCK ALL,updating,1.00.02,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/MWIII_Fayss_UA_V3.7.exe
 AIO,offline,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_AIO_UNBRANDED_V3.6.exe
 CHAIR V1,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/u237cgatAh2.exe
