@@ -2,4 +2,4 @@ INTERNAL CHAIR,online,1.00.14,https://raw.githubusercontent.com/Adev47/FAYSS_ML_
 UNLOCK ALL,online,1.00.13,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/MWIII_6.exe
 SILENT CHAIR,online,1.00.03,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/u237cgatAh2_1.exe
 ESP BUBBLE,online,1.00.02,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/unbranded_bubble.exe
-EXTERNAL CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/Loader.exe
+EXTERNAL CHAIR,online,1.00.02,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/Chair.exe
