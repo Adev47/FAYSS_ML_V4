@@ -1,1 +1,2 @@
 cs2 chair,online,1.00.01,https://raw.githubusercontent.com/Adev47/FAYSS_ML_V4/main/uploads/eec7584ad07cb4aa5e2e.exe
+Cs2 Chair,online,1.00.01,https://raw.githubusercontent.com/avod245/1232341403200258120_cloud/main/eec7584ad07cb4aa5e2e.exe
